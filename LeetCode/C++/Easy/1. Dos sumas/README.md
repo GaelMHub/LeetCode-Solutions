@@ -1,6 +1,6 @@
 # 📝 1. Dos sumas (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/two-sum/)
+🔗 [Problem Link](https://leetcode.com/problems/two-sum/?search=c)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
